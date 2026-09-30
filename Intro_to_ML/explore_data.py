@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Path of the file to read
-home= 'melb_data.csv'
+home= 'Intro_to_ML/melb_data.csv'
 
 # Fill in the line below to read the file into a variable home_data
 home_data = pd.read_csv(home)
