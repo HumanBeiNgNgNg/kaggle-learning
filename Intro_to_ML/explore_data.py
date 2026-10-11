@@ -11,7 +11,7 @@ print(home_data.describe())
 
 
 #=================#
-#     LATIHAN     #
+#     EXERCISE    #
 #=================#
 
 # What is the average lot size (rounded to nearest integer)?
